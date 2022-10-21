@@ -1,3 +1,3 @@
-# Skeleton React starter Project
+# Digital Business Card
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
+> Using basic React components
