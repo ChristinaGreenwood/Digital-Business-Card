@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+.app {
+    Width: 550px;
+    Height: 868px;
+    background-color: #23252C;
+    color: #DCDCDC;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    Width: 317px;
+    border-radius: 10px 10px 0px 0px;
+    background-color: #1A1B21;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.name {
+    padding-top: 21px;
+    padding-bottom: 6px;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.title {
+    font-weight: 200;
+    font-size: 12.8px;
+    line-height: 15px;
+    color: #F3BF99;
+    padding-bottom: 9px;
+}
+
+.text {
+    font-weight: 200;
+    font-size: 10px;
+    padding: 5px;
+    line-height: 150%;
+}
+
+ .profile {
+    width: 317px;
+    height: 317px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.about {
+    padding: 10px 30px;
+    width: 317px;
+    height: 120px;
+    background-color: #1A1B21;
+}
+
+.hobbies {
+    padding: 10px 30px;
+    width: 317px;
+    height: 120px;
+    background-color: #1A1B21;
+}
+
+.body-title {
+    font-size: 16px;
+    font-weight: 700;
+    padding-bottom: 5px;
+    color: #F5F5F5;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 317px;
+    height: 64px;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+    padding: 19px 72px;
+}
+
+.footer a {
+    color: #918E9B;
+    font-size: 25px;
+}
+
+.main-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 13px 9px 11px;
+    gap: 40px;
+}
+
+.main-button button {
+    /* box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05); */
+    border-radius: 6px;
+    border: 1px solid transparent;
+    height: 34px;
+   }
+
+   .two {
+    width: 115px;
+    height: 34px;
+    color: #F5F5F5;
+    background: #5093E2;
+    border: 1px solid #5093E2;
+   }
+
+   .one {
+    width: 84px;
+}
+
+   
+
